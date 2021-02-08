@@ -1,4 +1,4 @@
-## Modified version of  RattyDAVE's original repo to deploy [VCPB](https://github.com/rojserbest/VCPB) on [Zeet](https://zeet.co/)
+## Modified version of  It's Nik original repo to deploy [VCPB](https://github.com/rojserbest/VCPB) on [Zeet](https://zeet.co/)
 
 ## Env
 * You will need to set the following environment variables for a successful build.
